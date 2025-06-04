@@ -1,0 +1,5 @@
+name: PlayerOnlineBorder
+version: '1.0'
+main: ua.softwind.playerOnlineBorder.PlayerOnlineBorder
+api-version: '1.21'
+authors: [ Andriyko ]
